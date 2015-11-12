@@ -1,4 +1,4 @@
-# Elizar’s dotfiles
+# dotfiles forked from Elizar original by mathiasbynens
 
 
 ## Installation
